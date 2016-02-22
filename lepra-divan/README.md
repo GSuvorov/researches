@@ -5,5 +5,5 @@
 !["Диваны всегда в плюсе(почти)" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/negative-positiv-ratio-by-day.png)
 !["Плюрализм" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/plus-minus-comments-by-users.png)
 !["Упоротые антидиваны" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/pro-contra-divan-comments-by-users.png)
-!["Упоротые антидиваны" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/pro-contra-divan-comments-by-users.png)
+!["Диваны все же в плюсе" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/pro-contra-divan-posts-by-votes-and-abs.png)
 
