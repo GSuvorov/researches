@@ -14,7 +14,7 @@
 !["Таймлайн ежедневной активности топа тех и других" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/top-v-d-timeline.png)
 !["Распределение юзеров по дате регистрации" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/true-d-v-bydatereg.png)
 !["Поляризация мнений голосовавших за посты" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/users-posts-votes-polarization.png)
-!["Распределение оценок за комментарии" tag](https://github.com/GSuvorov/researches/blob/master/lepra-divan/comments-votes-positive-negative.png)
+
 
 
 
